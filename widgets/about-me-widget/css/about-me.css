@@ -1,0 +1,41 @@
+.desc{
+	font-size: 14px;
+	color: #000000;
+	text-align: center;
+	font-family: arial;
+}
+.author_photo{
+	border-radius: 50%;
+	text-align: center;
+}
+.author_photo img{
+	border-radius: 50%;
+	max-width: 150px;
+}
+.about-me-link{
+	width: 100%;
+	text-align: center;
+	margin-top: 1em;
+}
+.about-me-link a{
+	text-decoration: none;
+	font-size: 14px;
+	color:#FFFFFF;
+	background-color:#2E9AFE;
+	padding: 2% 4%;
+	font-family: arial;
+}
+.about-me-link a:hover{
+	background-color: #457783;
+}
+#img_container{
+	text-align: center;
+}
+#img_container img{
+	max-width: 150px;
+	border-radius: 50%;
+}
+#upload_btn{
+	width: 100%;
+	text-align: center;
+}
