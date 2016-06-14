@@ -1,0 +1,16 @@
+.jjd_social_buttons{
+	width: auto;
+	height: 24px;
+	margin-top: 20px;
+}
+.jjd_social_buttons div{
+	float: left !important;
+	line-height: 20px !important;
+	margin-right: 15px;
+}
+.jjd_default_photo, .jjd_upload_image_button{
+	margin-right: 10px;
+}
+.twitter-button-wrap{
+	display: inline-block;
+}
